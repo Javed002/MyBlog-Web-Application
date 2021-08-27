@@ -8,7 +8,9 @@
 ## Login
 
 <img src="Login.JPG" alt="My Blog" /> 
+
 ## Creating New Blog
+
 <img src="creating_blog.JPG" alt="My Blog" /> 
 
 ## Modifing and Publishing Blog
