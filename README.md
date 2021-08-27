@@ -5,6 +5,16 @@
 
 • Django web framework is used for application development.Backend using Python and frontend using HTML and CSS.
 
-##Login
+## Login
 
 <img src="Login.JPG" alt="My Blog" /> 
+## Creating New Blog
+<img src="creating_blog.JPG" alt="My Blog" /> 
+
+## Modifing and Publishing Blog
+
+<img src="Modifying_or_commenting.JPG" alt="My Blog" /> 
+
+## List of all Published Blogs
+
+<img src="list_blog.JPG" alt="My Blog" /> 
